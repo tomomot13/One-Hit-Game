@@ -5,3 +5,34 @@ OneHitGame/Build/
 OneHitGame/Builds/
 OneHitGame/MemoryCaptures/
 OneHitGame/Assets/**/*.meta
+
+*.DS_Store
+*.vscode
+
+# Builds
+*.apk
+*.unitypackage
+
+# Crashlytics generated file
+crashlytics-build.properties
+
+# Windows
+Thumbs.db
+Thumbs.db.meta
+
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
