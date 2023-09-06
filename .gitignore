@@ -5,6 +5,7 @@ OneHitGame/Build/
 OneHitGame/Builds/
 OneHitGame/MemoryCaptures/
 OneHitGame/Assets/**/*.meta
+OneHitGame/UserSettings/
 
 *.DS_Store
 *.vscode
