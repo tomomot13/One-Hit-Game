@@ -1,11 +1,11 @@
 OneHitGame/Library/
 OneHitGame/Logs/
-OneHitGame/Temp/
+OneHitGame/Temp/*
 OneHitGame/Build/
 OneHitGame/Builds/
 OneHitGame/MemoryCaptures/
 OneHitGame/Assets/**/*.meta
-OneHitGame/UserSettings/
+OneHitGame/UserSettings/*
 
 *.DS_Store
 *.vscode
