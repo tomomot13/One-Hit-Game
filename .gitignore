@@ -9,6 +9,7 @@ OneHitGame/UserSettings/*
 
 *.DS_Store
 *.vscode
+*.vsconfig
 
 # Builds
 *.apk
